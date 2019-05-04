@@ -1,0 +1,17 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/tabwidget.o
+./debug/tabbar.o
+./debug/biblewidget.o
+./debug/searchwidget.o
+./debug/loader.o
+./debug/loaderworker.o
+./debug/searcherworker.o
+./debug/moc_mainwindow.o
+./debug/moc_tabwidget.o
+./debug/moc_tabbar.o
+./debug/moc_biblewidget.o
+./debug/moc_searchwidget.o
+./debug/qrc_baibolyMenu.o
+);

@@ -1,0 +1,27 @@
+39,matio,matthieu,Matthieu,matthew,28,28,28,1
+40,marka,marc,Marc,mark,16,16,16,1
+41,lioka,luc,Luc,luke,24,24,24,1
+42,jaona,jean,Jean,john,21,21,21,1
+43,asa,actes_des_apotres,Actes des Apôtres,acts,28,28,28,1
+44,romana,romains,Romains,romans,16,16,16,1
+45,korintiana_i,corinthiens_i,Chorinthiens I,corinthians_i,16,16,16,1
+46,korintiana_ii,corinthiens_ii,Chorinthiens II,corinthians_ii,13,13,13,1
+47,galatiana,galates,Galates,galatians,6,6,6,1
+48,efesiana,ephesiens,Ephésiens,ephesians,6,6,6,1
+49,filipiana,philippiens,Philippiens,philippians,4,4,4,1
+50,kolosiana,colossiens,Colossiens,colossians,4,4,4,1
+51,tesaloniana_i,thessaloniciens_i,Thessaloniciens I,thessalonians_i,5,5,5,1
+52,tesaloniana_ii,thessaloniciens_ii,Thessaloniciens II,thessalonians_ii,3,3,3,1
+53,timoty_i,timothee_i,Timothée I,timothy_i,6,6,6,1
+54,timoty_ii,timothee_ii,Timothée II,timothy_ii,4,4,4,1
+55,titosy,tite,Tite,titus,3,3,3,1
+56,filemona,philemon,Philémon,philemon,1,1,1,1
+57,hebreo,hebreux,Hébreux,hebrews,13,13,13,1
+58,jakoba,jacques,Jacques,james,5,5,5,1
+59,petera_i,pierre_i,Pierre I,peter_i,5,5,5,1
+60,petera_ii,pierre_ii,Pierre II,peter_ii,3,3,3,1
+61,jaona_i,jean_i,Jean I,john_i,5,5,5,1
+62,jaona_ii,jean_ii,Jean II,john_ii,1,1,1,1
+63,jaona_iii,jean_iii,Jean III,john_iii,1,1,1,1
+64,joda,jude,Jude,jude,1,1,1,1
+65,apokalipsy,apocalypse,Apocalypse,revelation,22,22,22,1

@@ -1,0 +1,17 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/tabwidget.o
+./release/tabbar.o
+./release/biblewidget.o
+./release/searchwidget.o
+./release/loader.o
+./release/loaderworker.o
+./release/searcherworker.o
+./release/moc_mainwindow.o
+./release/moc_tabwidget.o
+./release/moc_tabbar.o
+./release/moc_biblewidget.o
+./release/moc_searchwidget.o
+./release/qrc_baibolyMenu.o
+);

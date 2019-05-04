@@ -1,0 +1,39 @@
+0,genesisy,genese,Genèse,genesis,50,50,50,0
+1,samoela_ii,samuel_ii,Samuel II,samuel_ii,24,24,24,0
+2,mpanjaka_i,rois_i,Rois I,kings_i,22,22,22,0
+3,mpanjaka_ii,rois_ii,Rois II,kings_ii,25,25,25,0
+4,tantara_i,chroniques_i,Chroniques I,chronicles_i,29,29,29,0
+5,tantara_ii,chroniques_ii,Chroniques II,chronicles_ii,36,36,36,0
+6,ezra,esdras,Esdras,ezra,10,10,10,0
+7,nehemia,nehemie,Néhémie,nehemiah,13,13,13,0
+8,estera,esther,Esther,esther,10,10,10,0
+9,joba,job,Job,job,42,42,42,0
+10,salamo,psaumes,Psaumes,psalms,150,150,150,0
+11,eksodosy,exode,Exode,exodus,40,40,40,0
+12,ohabolana,proverbes,Proverbes,proverbs,31,31,31,0
+13,mpitorinteny,predicateur,Predicateur,ecclesiastes,12,12,12,0
+14,tonon_kira,cantique_des_cantiques,Cantique des Cantiques,song_of_solomon,8,8,8,0
+15,isaia,isaie,Ésaïe,isaiah,66,66,66,0
+16,jeremia,jeremie,Jérémie,jeremiah,52,52,52,0
+17,fitomaniana,lamentations_de_jeremie,Lamentations de Jérémie,lamentations,5,5,5,0
+18,ezekiela,ezechiel,Ézéchiel,ezekiel,48,48,48,0
+19,daniela,daniel,Daniel,daniel,12,12,12,0
+20,hosea,osee,Osée,hosea,14,14,14,0
+21,joela,joel,Joel,joel,4,3,3,0
+22,levitikosy,levitique,Lévitique,leviticus,27,27,27,0
+23,amosa,amos,Amos,amos,9,9,9,0
+24,obadia,abdias,Abdias,obadiah,1,1,1,0
+25,jona,jonas,Jonas,jonah,4,4,4,0
+26,mika,michee,Michée,micah,7,7,7,0
+27,nahoma,nahum,Nahum,nahum,3,3,3,0
+28,habakoka,habakuk,Habakuk,habakkuk,3,3,3,0
+29,zefania,sophonie,Sophonie,zephaniah,3,3,3,0
+30,hagay,aggee,Aggée,haggai,2,2,2,0
+31,zakaria,zacharie,Zacharie,zechariah,14,14,,0
+32,malakia,malachie,Malachie,malachi,3,4,4,0
+33,nomery,nombres,Nombres,numbers,36,36,36,0
+34,deoteronomia,deuteronome,Deuteronome,deuteronomy,34,34,34,0
+35,josoa,josue,Josué,joshua,24,24,24,0
+36,mpitsara,juges,Juges,judges,21,21,21,0
+37,rota,ruth,Ruth,ruth,4,4,4,0
+38,samoela_i,samuel_i,Samuel I,samuel_i,31,31,24,0
